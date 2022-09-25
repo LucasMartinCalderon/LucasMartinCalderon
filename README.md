@@ -15,6 +15,24 @@ Here are some ideas to get you started:
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&duration=2500&pause=1000&center=true&width=1000&lines=Hi!+I'm+Lucas+Martin+Calderon%2C+welcome+to+my+GitHub+personal+portfolio!)](https://git.io/typing-svg)
 
+- 🔭 I’m currently working on Pentestify, a London-Paris-based startup 
+that automates the security validation of smart contracts on any 
+blockchain. 
+
+ - 🌱 I’m currently learning and mastering serverless cloud computing, 
+blockchain security, offensive cybersecurity and cutting-edge deep 
+reinforcement learning. 
+
+- 👯 I’m looking to collaborate on serverless distributed projects, 
+blockchain, cybersecurity and AI.
+
+- 🤔 I’m looking forward to surrounding myself with exceptionally 
+talented software engineers.
+
+- 💬 Ask me about technology, finance and entrepreneurship. 
+
+- 📫 How to reach me: lucas@pentestify.io
+
 
 <!-- This next line acts as the compact number of programming languages most in use 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
