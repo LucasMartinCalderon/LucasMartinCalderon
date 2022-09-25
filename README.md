@@ -33,7 +33,9 @@ talented software engineers.
 
 - 📫 How to reach me: lucas@pentestify.io
 
+- 💻 I most enjoy programming in the following languages, according to my 
+self-updating GitHub stats: 
 
-<!-- This next line acts as the compact number of programming languages most in use 
+<!-- This next line acts as the compact number of programming languages most in use -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
--->
+
