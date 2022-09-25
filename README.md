@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&duration=2500&pause=1000&center=true&width=1000&lines=Hi!+I'm+Lucas+Martin+Calderon%2C+welcome+to+my+GitHub+personal+portfolio!)](https://git.io/typing-svg)
 
 
-
-
-
-
-<!-- This next line acts as the compact number of programming languages most in use -->
+<!-- This next line acts as the compact number of programming languages most in use 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
+-->
