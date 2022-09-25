@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 <!-- This next line acts as the compact number of programming languages most in use -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
