@@ -16,9 +16,9 @@ GitHub README.md, GitHub's newest implementation:
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&duration=2500&pause=1000&center=true&width=1000&lines=Hi!+I'm+Lucas+Martin+Calderon%2C+welcome+to+my+GitHub+personal+portfolio!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Pentestify, a London-Paris-based startup 
+- 🔭 I’m currently the CEO of Pentestify, a London-Paris-based startup 
 that automates the security validation of smart contracts on any 
-blockchain. 
+blockchain, engineered for DeFi. 
 
  - 🌱 I’m currently learning and mastering serverless cloud computing, 
 blockchain security, offensive cybersecurity and cutting-edge deep 
