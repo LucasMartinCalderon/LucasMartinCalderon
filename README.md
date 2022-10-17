@@ -1,5 +1,6 @@
 <!--
-**LucasMartinCalderon/LucasMartinCalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***LucasMartinCalderon/LucasMartinCalderon** is a ✨ _special_ ✨ 
+repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started with LMC's personal portfolio on 
 GitHub README.md, GitHub's newest implementation:
