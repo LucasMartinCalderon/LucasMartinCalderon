@@ -40,5 +40,4 @@ self-updating GitHub stats:
 
 <!-- This next line acts as the compact number of programming languages most in use -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
-![GitHub stats words](https://visitor-badge.glitch.me/badge?page_id=LucasMartinCalderon.LucasMartinCalderon)
 
