@@ -19,7 +19,7 @@ GitHub README.md, GitHub's newest implementation:
 
 - 🔭 I’m currently the CEO of Pentestify, a London-Paris-based startup 
 that automates the security validation of smart contracts on any 
-blockchain, engineered for DeFi. 
+blockchain, engineered for DeFi -> feel free to visit: pentestify.io
 
  - 🌱 I’m currently learning and mastering serverless cloud computing, 
 blockchain security, offensive cybersecurity and cutting-edge deep 
