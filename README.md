@@ -37,7 +37,8 @@ self-updating GitHub statistics:
 <!-- This next line acts as the compact number of programming languages most in use -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
  
-## GitHub Trophys and Social Media
+## GitHub Trophys
 <img src="https://github-profile-trophy.vercel.app/?username=LucasMartinCalderon&theme=juicyfresh&no-bg=true" />
-<img src = "https://contrib.rocks/image?repo=LucasMartinCalderon/simple-sqlite"/>
+
+## Social Media
 <img src="https://img.shields.io/twitter/follow/lmc_security?logo=twitter&style=for-the-badge" alt="lmc_security" />
