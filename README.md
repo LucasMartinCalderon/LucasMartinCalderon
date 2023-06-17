@@ -30,13 +30,14 @@ talented fellow professionals.
 - 💬 Ask me anything about technology, finance and entrepreneurship. 
 
 - 📫 How to reach me: lucas@pentestify.io
-
+<!--
 - 💻 I most enjoy programming in the following languages, according to my 
 self-updating GitHub statistics: 
 
-<!-- This next line acts as the compact number of programming languages most in use -->
+<!-- This next line acts as the compact number of programming languages most in use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
- 
+-->
+
 ## GitHub Trophys
 <img src="https://github-profile-trophy.vercel.app/?username=LucasMartinCalderon&theme=juicyfresh&no-bg=true" />
 
