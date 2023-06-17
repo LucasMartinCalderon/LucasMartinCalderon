@@ -17,20 +17,17 @@ GitHub README.md, GitHub's newest implementation:
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&duration=2500&pause=1000&center=true&width=1000&lines=Hi!+I'm+Lucas+Martin+Calderon%2C+welcome+to+my+GitHub+personal+portfolio!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently the CEO of Pentestify, a London-Paris-based startup that automates the security validation of smart contracts on any blockchain, engineered for DeFi. 
+- 🔭 I’m currently the CEO of Pentestify, a startup that automatically detects smart contract security vulnerabilities post-deployment using state-of-the-art AI.
 Feel free to visit: https://pentestify.io for further information.
 
- - 🌱 I’m currently learning and mastering serverless cloud computing, 
-blockchain security, offensive cybersecurity and cutting-edge deep 
-reinforcement learning. 
+ - 🌱 I'm currently mastering the intersection between artificial intelligence and blockchain security, to ensure that web3 does not look anything like 1984.
 
-- 👯 I’m looking to collaborate on serverless distributed projects, 
-blockchain, cybersecurity and AI.
+- 👯 I’m always keen and happy to collaborate in the following areas: DeFi, blockchain and smart contract security, cutting-edge AI (DRL, GNNs, LLMs, etc.), and entrepreneurship.
 
 - 🤔 I’m looking forward to surrounding myself with exceptionally 
-talented software engineers.
+talented fellow professionals.
 
-- 💬 Ask me about technology, finance and entrepreneurship. 
+- 💬 Ask me anything about technology, finance and entrepreneurship. 
 
 - 📫 How to reach me: lucas@pentestify.io
 
@@ -40,3 +37,17 @@ self-updating GitHub statistics:
 <!-- This next line acts as the compact number of programming languages most in use -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
 
+<a href="https://github.com/LucasMartinCalderon/github-stats-transparent">
+![](https://raw.githubusercontent.com/LucasMartinCalderon/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/LucasMartinCalderon/github-stats-transparent/output/generated/languages.svg)
+</a>
+
+## Contributors
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors"></a>
+ 
+## GitHub Trophys
+ <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+  <img src = "https://contrib.rocks/image?repo=LucasMartinCalderon/simple-sqlite"/>
+
+## Social Media
+<img src="https://img.shields.io/twitter/follow/lmc_security?logo=twitter&style=for-the-badge" alt="lmc_security" />
