@@ -36,17 +36,13 @@ self-updating GitHub statistics:
 
 <!-- This next line acts as the compact number of programming languages most in use -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMartinCalderon&layout=compact)
-
-<a href="https://github.com/LucasMartinCalderon/github-stats-transparent">
-![](https://raw.githubusercontent.com/LucasMartinCalderon/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/LucasMartinCalderon/github-stats-transparent/output/generated/languages.svg)
-</a>
+<img src="https://github.com/LucasMartinCalderon/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 ## Contributors
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors"></a>
+<a href = "https://github.com/LucasMartinCalderon/simple-sqlite/graphs/contributors"></a>
  
 ## GitHub Trophys
- <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+ <img src="https://github-profile-trophy.vercel.app/?username=LucasMartinCalderon&theme=juicyfresh&no-bg=true" />
   <img src = "https://contrib.rocks/image?repo=LucasMartinCalderon/simple-sqlite"/>
 
 ## Social Media
