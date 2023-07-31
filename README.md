@@ -15,7 +15,7 @@ GitHub README.md, GitHub's newest implementation:
 - ⚡ Fun fact: ...
 --->
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM&duration=2500&pause=1000&center=true&width=1000&lines=Hi!+I'm+Lucas+Martin+Calderon%2C+welcome+to+my+GitHub+personal+portfolio!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F706F6&multiline=true&width=700&height=60&lines=Hello+world!+I+am+Lucas+Martin+Calderon.;Welcome+to+my+personal+GitHub+page+to+learn+more+about+me+and+what+I+have+been+cooking+these+past+years.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently the Founder & CEO @ [Pentestify](https://pentestify.io), a startup that automatically detects smart contract security vulnerabilities post-deployment using state-of-the-art AI. I am equally the Founder of [zkToro](https://zktoro.com), a DeFi protocol to unlock blockchain's social trading potential and the Co-Founder of [Web3Sec](https://web3sec.news), the world's largest blockchain security news aggregator newsletter.
 
