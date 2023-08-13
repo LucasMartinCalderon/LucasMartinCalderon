@@ -21,7 +21,7 @@ GitHub README.md, GitHub's newest implementation:
 
  - 🌱 I'm driving the alignment between artificial intelligence and blockchain security, to ensure that web3 does not look anything like 1984.
 
-- 👯 I’m always keen and happy to collaborate in the following areas: DeFi, blockchain and smart contract security, cutting-edge AI (DRL, GNNs, LLMs, etc.), zero-knowledge proofs, and entrepreneurship.
+- 👯 I’m always keen and happy to collaborate in the following areas: DeFi, blockchain and smart contract security, cutting-edge AI (DRL, GNNs, LLMs, etc.), zero-knowledge proofs, FHE (full homomorphic encryption), and entrepreneurship.
 
 - 🤔 I’m looking forward to surrounding myself with exceptionally talented fellow professionals.
 
