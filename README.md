@@ -17,7 +17,7 @@ GitHub README.md, GitHub's newest implementation:
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F706F6&center=true&multiline=true&width=700&height=60&lines=Hello+world!+I+am+Lucas+Martin+Calderon.;Welcome+and+learn+more+about+me+here!)](https://git.io/typing-svg)
 
-- 🔭 I am an currently the Founder & CEO of [Kash](kash.bot), which enables social media users to participate in long-tail prediction markets directly from their feed on their favourite social media apps. I am the creator of the first hybrid bonding curve AMM, which solves the liquidity bootstraping challenge in PMM and the first decentralised and trustless market resolution oracle using zero-knowlege proofs and deterministic, high-reasoning AI. I have equally developed a low-latency trading systems in this space with top players globally.
+- 🔭 I am an currently the Founder & CEO of [Kash](https://kash.bot), which enables social media users to participate in long-tail prediction markets directly from their feed on their favourite social media apps. I am the creator of the first hybrid bonding curve AMM, which solves the liquidity bootstraping challenge in PMM and the first decentralised and trustless market resolution oracle using zero-knowlege proofs and deterministic, high-reasoning AI. I have equally developed a low-latency trading systems in this space with top players globally.
 
  - 🌱 I'm pioneering the intersection between artificial intelligence and blockchain, to ensure that web3 does not look anything like 1984, currently focused on DeFi.
 
